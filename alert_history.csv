@@ -1,0 +1,2 @@
+detected_at,ip_address,failed_attempts,time_window_minutes,risk_level,alert_message,window_start,window_end
+2026-10-28 14:28:43,192.168.1.10,5,5,HIGH,HIGH RISK: 192.168.1.10 had at least 5 failed logins within 5 minutes.,2026-10-27 10:00:01,2026-10-27 10:00:40

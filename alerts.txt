@@ -1,0 +1,4 @@
+SECURITY MONITORING ALERT REPORT
+================================
+
+HIGH RISK: 192.168.1.10 had at least 5 failed logins within 5 minutes.

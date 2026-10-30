@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+detector_backup.py
+alert_history_backup.csv
+alert_history_old.csv
