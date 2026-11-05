@@ -29,7 +29,11 @@ A Streamlit dashboard provides a visual interface for monitoring detected securi
 | Git and GitHub | Version control and project hosting |
 
 ## Project Architecture
+## Dashboard Preview
 
+### Streamlit Security Monitoring Dashboard
+
+![Streamlit Dashboard](screenshots/streamlit-dashboard.png)
 1. Login events are stored in a CSV file.
 2. The Python detector analyzes failed login attempts.
 3. The detector identifies suspicious IP addresses based on a configured threshold.
