@@ -34,6 +34,10 @@ A Streamlit dashboard provides a visual interface for monitoring detected securi
 ### Streamlit Security Monitoring Dashboard
 
 ![Streamlit Dashboard](screenshots/streamlit-dashboard.png)
+### Splunk Security Monitoring Dashboard
+
+![Splunk Dashboard](screenshots/splunk-dashboard.png)
+
 1. Login events are stored in a CSV file.
 2. The Python detector analyzes failed login attempts.
 3. The detector identifies suspicious IP addresses based on a configured threshold.
